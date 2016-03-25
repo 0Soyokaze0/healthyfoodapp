@@ -1,0 +1,9 @@
+$ touch .gitignore
+$ git init 
+$ git add -A Klaardetten om een comit te doen 
+$ git commit -m "bootchap" (eerste comit = initial commit)
+
+git@github.com:0Soyokaze0/healthyfoodapp.git
+
+$ git remote add origin git@github.com:0Soyokaze0/healthyfoodapp.git
+$ git push origin master 
